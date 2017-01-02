@@ -1,3 +1,7 @@
+---
+layout: default
+title: Recuerdos de mis viajes a la Crimea durante el memorable sitio de Sebastopol. Por E. A.
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
